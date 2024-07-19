@@ -49,7 +49,7 @@ You can reach me through my LinkedIn, Gmail, or Instagram account.
 
 **This is a list of the back-end languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,expressjs,nestjs,postgresql,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,expressjs,nestjs,postgresql,mysql)](https://skillicons.dev)
 
 </div>
 
