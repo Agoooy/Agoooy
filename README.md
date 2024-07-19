@@ -1,12 +1,11 @@
 <div align="center">
 
 # Hi, I'm Yoga! 👋
+Full-stack Developer
 
 </div>
 
 ---
-
-### Fullstack Developer
 
 I am a full-stack developer with expertise in both front-end and back-end technologies. I am passionate about building user-friendly and efficient web applications.
 
