@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yoga! 👋
+# Hi, I'm Yoga!
 ## Full-stack Developer
 
 </div>
