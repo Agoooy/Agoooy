@@ -1,5 +1,3 @@
-Berikut adalah kode markdown yang lebih menarik untuk ditampilkan pada profil GitHub Anda:
-
 ---
 
 <div align="center">
@@ -72,5 +70,3 @@ You can reach me through my LinkedIn, Gmail, Twitter, or Instagram account.
 </div>
 
 ---
-
-Ini memberikan tampilan yang lebih simetris dan terpusat, membuat profil Anda lebih menarik secara visual dan mudah dibaca.
