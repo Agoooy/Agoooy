@@ -2,21 +2,21 @@
 
 <div align="center">
 
-# Hi, I'm Yoga! Full-stack Developer
+<h1><strong>Hi, I'm Yoga! Full-stack Developer</strong></h1>
+
+<hr>
+
+<p><em>I am a full-stack developer with expertise in both front-end and back-end technologies. I am passionate about building user-friendly and efficient web applications.</em></p>
+
+<p><em>And don't forget to check my <a href="https://agooy-portfolio.vercel.app/" target="_blank">portfolio</a>!</em></p>
 
 </div>
 
----
+<hr>
 
-I am a full-stack developer with expertise in both front-end and back-end technologies. I am passionate about building user-friendly and efficient web applications.
+<h2><strong>Contact Me</strong></h2>
 
-And don't forget to check my [portfolio](https://agooy-portfolio.vercel.app/)!
-
----
-
-### Contact Me
-
-You can reach me through my LinkedIn, Gmail, Twitter, or Instagram account.
+<p>You can reach me through my LinkedIn, Gmail, Twitter, or Instagram account:</p>
 
 <div align="center">
 
@@ -35,31 +35,35 @@ You can reach me through my LinkedIn, Gmail, Twitter, or Instagram account.
 
 </div>
 
----
+<hr>
 
-## Frontend Languages
+<h2><strong>Frontend Languages</strong></h2>
 
-**This is a list of my front-end languages:**
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,nextjs,tailwind,bootstrap,sass,typescript,astro,vue,css&perline=5)](https://skillicons.dev)
-
-</div>
-
-## Backend Languages
-
-**This is a list of my back-end languages:**
+<p><em>This is a list of my front-end languages:</em></p>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,nestjs,postgresql,mysql)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,javascript,nextjs,tailwind,bootstrap,sass,typescript,astro,vue,css&perline=5" alt="Frontend Languages" />
+</a>
 
 </div>
 
----
+<h2><strong>Backend Languages</strong></h2>
 
-## My Stats
+<p><em>This is a list of my back-end languages:</em></p>
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,nestjs,postgresql,mysql" alt="Backend Languages" />
+</a>
+
+</div>
+
+<hr>
+
+<h2><strong>My Stats</strong></h2>
 
 <div align="center"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Agoooy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
