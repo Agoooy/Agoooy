@@ -9,6 +9,7 @@
 ## Connect with me
 
   You can reach me through My Gmail, LinkedIn, X, or Instagram account
+  
  <a
  href="mailto:yogaardikaaa123@gmail.com?subject=Hi%20Yoga,%20I'd%20like%20to%20hire%20you">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo" />
