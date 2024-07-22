@@ -8,7 +8,7 @@
 
 ## Connect with me
 
-  You can reach me through My Gmail, LinkedIn, X, or Instagram account
+  You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
  href="mailto:yogaardikaaa123@gmail.com?subject=Hi%20Yoga,%20I'd%20like%20to%20hire%20you">
@@ -16,9 +16,6 @@
 </a>
 <a href="https://www.linkedin.com/in/agooy/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo" />
-</a>
-<a href="https://twitter.com/mamahakutakut">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="27" alt="twitter logo" />
 </a>
 <a href="https://instagram.com/yogardkaa">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" />
@@ -39,6 +36,7 @@
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
