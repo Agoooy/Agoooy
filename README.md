@@ -6,7 +6,7 @@
   <br/>
   <br/> And don't forget to check my [portfolio](https://minimalist-yoga.vercel.app/).
 
-## Connect with me
+### Connect with me
 
   You can reach me through My Gmail, LinkedIn, or Instagram account
   
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" />
 </a>
 
-## Languages and Tools
+### Languages and Tools
 
 #### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,7 +59,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-#### Some of my Github Stats
+### Some of my Github Stats
 
 <div align="left" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Agoooy&local=en&hide_tittle=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="170" alt="languages graph" />
