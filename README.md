@@ -6,8 +6,8 @@
   <br/>
   <br/> And don't forget to check my [portfolio](https://minimalist-yoga.vercel.app/).
 
+---
 ### Connect with me
-
   You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" />
 </a>
 
+---
 ### Languages and Tools
 
 #### Languages
@@ -59,6 +60,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+---
 ### Some of my Github Stats
 
 <div align="left" >
