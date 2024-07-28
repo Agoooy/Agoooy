@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Hello, my name is Yoga!</h2>
+<h1>Hello, my name is Yoga!</h1>
 </p>
 
   I am student who also works as a frontend developer. Currently, I am expanding my skills by learning backend development. I am interseted in gaining a deeper understanding of how the entire web development ecosystem works, from user interfaces to servers and databases.
