@@ -4,7 +4,7 @@
 
   I am student who also works as a frontend developer. Currently, I am expanding my skills by learning backend development. I am interseted in gaining a deeper understanding of how the entire web development ecosystem works, from user interfaces to servers and databases.
   <br/>
-  <br/> And don't forget to check my [portfolio](https://minimalist-yoga.vercel.app/).
+  <br/> And don't forget to check my [portfolio](https://agooy.vercel.app/).
 
 ---
 ### Connect with me
